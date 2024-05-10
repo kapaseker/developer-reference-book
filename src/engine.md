@@ -13,7 +13,8 @@
 - [KorGE](https://korge.org/)  
 
 ### *libGDX*
-- [libGDX](https://libgdx.com/)  
+- [libGDX](https://libgdx.com/)   
+- [libKtx](https://libktx.github.io/) libGDX的Kotlin实现   
 
 ### *LWJGL*
 - [LWJGL](https://www.lwjgl.org/)  
