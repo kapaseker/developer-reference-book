@@ -3,6 +3,8 @@
 - [开发者官网](https://developer.android.com/)
 - [现代化Android开发](https://developer.android.com/modern-android-development)
 - [YouTube@AndroidDevelopers](https://www.youtube.com/@AndroidDevelopers)
+- [Android Weekly](https://androidweekly.net/)
+- [Android Blog](https://android-developers.googleblog.com/)
 
 
 ## Compose  
