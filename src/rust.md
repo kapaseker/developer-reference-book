@@ -13,6 +13,7 @@
 - [The Cargo Book](https://doc.rust-lang.org/cargo/index.html)
 - [Game Devs](https://arewegameyet.rs/)
 - [mdBook](https://rust-lang.github.io/mdBook/)
+- [rustfinity](https://www.rustfinity.com/)
 
 ## UI
 - [GUI Devs](https://areweguiyet.com/)
