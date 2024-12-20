@@ -33,6 +33,7 @@
 - [Kenney](https://www.kenney.nl/)
 - [itch](https://itch.io/)
 - [Poly Pizza](https://poly.pizza/) 免费的模型资源
+- [freesound](https://freesound.org/) 免费的音乐
 
 ## 开发学习
 - [game math book](https://gamemath.com)
