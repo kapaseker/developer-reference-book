@@ -24,18 +24,19 @@
 - [kotlin-imgui](https://github.com/kotlin-graphics/imgui)
 
 ## 资源
-- [Godot Shaders](https://godotshaders.com/)
-- [Sketchfab](https://sketchfab.com/)
+
 - [ambientCG](https://ambientcg.com/)
 - [cc0 Textures](https://cc0-textures.com/)
-- [OpenGameArt](https://opengameart.org/)
+- [OpenGameArt](https://opengameart.org/) 各种游戏资源
 - [Poly Haven](https://polyhaven.com/)
 - [Kenney](https://www.kenney.nl/)
-- [itch](https://itch.io/)
+- [itch](https://itch.io/) 各种游戏资源
 - [Poly Pizza](https://poly.pizza/) 免费的模型资源
 - [freesound](https://freesound.org/) 免费的音乐
 - [shockwave](https://www.shockwave-sound.com/) 音乐资源
 - [sound image](https://soundimage.org) 游戏音乐资源
+- [Sketchfab](https://sketchfab.com/)
+- [Godot Shaders](https://godotshaders.com/)
 
 ## 开发学习
 - [game math book](https://gamemath.com)
